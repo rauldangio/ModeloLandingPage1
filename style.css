@@ -33,4 +33,121 @@ body{
 .ancora{
     font-family: 'Sarala', sans-serif;
     color: #FFF2E7;
+    height: 300;
+    font-size: 18px;
 }
+
+.parte-principal{
+    margin-bottom: 48px;
+    border-top: 0.4px solid #FFF2E7;
+}
+
+.primeira-sessao{
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content:space-around;
+}
+
+.divisão-da-primeira-sessao{
+    display: flex;
+    flex-direction: column;
+    gap: 30px;
+}
+
+.titulo{
+     font-family: 'Righteous';
+     color: #FFF2E7;
+    font-size: 64px;
+    font-weight: 400;
+}
+
+.sub-titulo{
+    font-family: 'Sarala', sans-serif;
+    color: #ECD6C4;
+    font-size: 24px;
+    font-weight: 400;
+}
+
+.botao{
+    background-color: #ECD6C4;
+    Width: 185px;
+    Height: 67px;
+    border: none;
+    box-shadow: 4px 5px 4px rgba(0, 0, 0, 0.25);
+    border-radius: 20px;
+    font-family: 'Sarala', sans-serif;
+    color: #2F2325;
+    font-weight: 400;
+    font-size: 24px;
+}
+
+.botao:hover {
+    background-color: rgba(236,214 ,196 ,0.53);
+}
+
+.foto-da-ballerini{
+    height: 430px;
+}
+
+.segunda-sessao{
+    
+    display: flex;
+    flex-direction: column;
+    margin-top: 45px;
+    align-items: center;
+    gap: 40px;
+}
+
+.sub-titulo-h3{
+    font-family: 'Righteous';
+    font-weight: 400;
+    font-size: 24px;
+    color: #FFF2E7;
+    border-top: 0.4px solid #FFF2E7;
+    padding-top: 18px;
+   
+}
+
+.primeiro-paragrafo{
+    font-family: 'Sarala', sans-serif; ;
+    font-weight: 300;
+    font-size: 18px;
+    color: #ECD6C4;
+}
+
+.segundo-paragrafo{
+    font-family: 'Sarala', sans-serif; ;
+    font-weight: 300;
+    font-size: 18px;
+    color: #ECD6C4;
+}
+
+.terceiro-paragrafo{
+    font-family: 'Sarala', sans-serif; ;
+    font-weight: 300;
+    font-size: 18px;
+    color: #ECD6C4;
+}
+
+.rodape{
+    border-top: 0.4px solid #FFF2E7;
+    padding: 30px;
+}
+
+.logo-rodape{
+    height: 48px;
+    display: block;
+    margin: 0 auto;
+}
+
+
+
+
+
+
+
+
+
+
+
